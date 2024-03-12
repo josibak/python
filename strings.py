@@ -51,5 +51,3 @@ a
 n
 a
 '''
-
-hello hello
